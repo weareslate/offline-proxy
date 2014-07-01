@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "text": "Home"
+        },
+        {
+            "id": 2,
+            "text": "News"
+        },
+        {
+            "id": 3,
+            "text": "About Us"
+        },
+        {
+            "id": 4,
+            "text": "Contact Us"
+        }
+    ]
+}
